@@ -1,0 +1,7 @@
+# SheerID Zen Bot - Dependencies
+# This is a minimal requirements file for the public version
+
+# No external dependencies required for the public demo
+# The actual bot runs on our cloud infrastructure
+
+# To use the full bot, visit: https://t.me/sheeridzen_bot

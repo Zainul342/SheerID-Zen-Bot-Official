@@ -1,0 +1,39 @@
+# Python
+*.pyc
+__pycache__/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite
+*.db-journal
+
+# Session files
+*.session
+
+# Generated docs
+docs/generated/
+
+# Build
+dist/
+build/
+*.egg-info/
